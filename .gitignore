@@ -1,2 +1,11 @@
+# Document files
 *.docx
+*.DOCX
 *.pdf
+*.PDF
+
+# Common IDE and system files
+.DS_Store
+*.swp
+*.swo
+*~
